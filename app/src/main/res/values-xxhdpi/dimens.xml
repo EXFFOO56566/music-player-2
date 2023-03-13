@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- Notification template expanded -->
+    <dimen name="notification_expanded_height">128.0dip</dimen>
+    <dimen name="notification_expanded_buttons_divider_padding">12.0dip</dimen>
+    <dimen name="notification_expanded_button_height">48.0dip</dimen>
+    <dimen name="notification_expanded_button_padding">10.0dip</dimen>
+
+    <!-- Notification template -->
+    <dimen name="notification_info_container_padding_left">8.0dip</dimen>
+
+
+    <!-- Text sizes -->
+    <dimen name="text_size_small">14.0sp</dimen>
+    <dimen name="text_size_x_large">24.0sp</dimen>
+
+
+    <!-- separator -->
+
+
+    <dimen name="list_view_left_icon_size">78dp</dimen>
+
+
+    <!--Equalizer Screen dimens-->
+    <dimen name="progress_width">12dp</dimen>
+    <dimen name="seek_arc_margin">12dp</dimen>
+    <dimen name="seek_arc_padding">12dp</dimen>
+    <item name="control_button_scale" format="float" type="dimen">1.2</item>
+
+</resources>

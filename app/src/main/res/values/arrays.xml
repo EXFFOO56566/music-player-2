@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="menuOptions">
+        <item>Setting</item>
+        <item>Equalizer</item>
+        <item>Privacy</item>
+        <item>Share</item>
+        <item>Rate us</item>
+    </array>
+
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Setting</item>
+        <item>Equalizer</item>
+        <item>Privacy Policy</item>
+        <item>Share</item>
+        <item>Rate Us</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/setting</item>
+        <item>@drawable/equalizer</item>
+        <item>@drawable/praivacy</item>
+        <item>@drawable/share</item>
+        <item>@drawable/rate</item>
+    </array>
+
+</resources>

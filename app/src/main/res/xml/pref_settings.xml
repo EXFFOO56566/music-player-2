@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:title="@string/settings">
+    <header
+        android:fragment="com.music.songplayer.Setting.SettingsAppearanceFragment"
+        android:summary="@string/appearance_description"
+        android:title="@string/appearance" />
+
+    <!--<header-->
+        <!--android:fragment="freeee.Setting.SettingsAlbumArtFragment"-->
+        <!--android:icon="@drawable/drawable_image"-->
+        <!--android:summary="@string/album_art_description"-->
+        <!--android:title="@string/album_art"/>-->
+
+    <!--<header-->
+        <!--android:fragment="freeee.Setting.SettingsAudioFragment"-->
+        <!--android:icon="@drawable/ic_volume_up_black_24dp"-->
+        <!--android:summary="@string/audio_settings_description"-->
+        <!--android:title="@string/audio_settings"/>-->
+
+    <header
+        android:fragment="com.music.songplayer.Setting.SettingsMusicLibraryFragment"
+        android:summary="@string/music_folders_description"
+        android:title="@string/music_library"/>
+
+    <!--<header-->
+        <!--android:fragment="freeee.Setting.SettingsScrobblingFragment"-->
+        <!--android:icon="@drawable/ic_placeholder"-->
+        <!--android:summary="@string/scrobbling_description"-->
+        <!--android:title="@string/scrobbling"/>-->
+
+    <!--<header
+
+        android:fragment="com.music.songplayer.Setting.SettingsAboutFragment"
+        android:icon="@drawable/drawable_about"
+        android:summary="@string/about_description"
+        android:title="@string/licenses_and_about"/>-->
+
+
+</preference-headers>
